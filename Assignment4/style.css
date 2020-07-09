@@ -1,0 +1,39 @@
+body {
+    background-color: lightseagreen;
+}
+
+header {
+    background-color: orange;
+    font-family: Impact, sans-serif;
+    color: lightyellow;
+}
+
+.text-left-right {
+    text-align: right;
+    position: relative;
+    font-weight: 100;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-right: 25px;
+}
+
+.left-text {
+    left: 0px;
+    position: absolute;
+    padding-left: 25px;
+}
+
+.byline {
+    font-size: 16px;
+    color: white;
+}
+
+ul {
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+}
+
+p {
+    color: white
+}

@@ -1,0 +1,36 @@
+body {
+    background-color: rgb(144, 212, 214);
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 0;
+    margin: 0;
+}
+
+header {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: lighter;
+}
+
+h1 {
+    color: rgb(121, 117, 117);
+    background-color: whitesmoke;
+}
+
+ol,
+ul {
+    list-style: none;
+}
+
+.list li {
+    line-height: 2em;
+}
+
+.sectionIntro {
+    background-color: rgb(94, 94, 94);
+    border-color: whitesmoke;
+    border-style: solid;
+    box-sizing: border-box;
+    color: white;
+    margin-block: 15em;
+    padding: 2em;
+}
